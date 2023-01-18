@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Hakansv/ais-vd_pi/735 -->
+<!-- https://circleci.com/gh/Hakansv/ais-vd_pi/758 -->
 <plugin version="1">
   <name> ais-vd </name>
   <version> 1.8.2 </version>
@@ -23,5 +23,5 @@ using NMEA0183 ECVSD sentence.
   <target-version>22.08</target-version>
   <target-arch>aarch64</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/ais-vd-prod/raw/names/ais-vd-1.8.2-flatpak-A64-22.08-tarball/versions/1.8.2/ais-vd-1.8.2_flatpak-22.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> e3cd1b656ab7d47f70c1d94b8df7df25333f25c21bfbb59c6c339ade46ff69d6 </tarball-checksum>
+  <tarball-checksum> 595acbdca25ecff388efe390d03fb8306c144f70f67d29cd02e5057c67888178 </tarball-checksum>
 </plugin>
