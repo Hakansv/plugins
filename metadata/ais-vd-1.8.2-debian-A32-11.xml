@@ -23,5 +23,5 @@ using NMEA0183 ECVSD sentence.
   <target-version>11</target-version>
   <target-arch>armhf</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/ais-vd-prod/raw/names/ais-vd-1.8.2-debian-A32-11-tarball/versions/1.8.2/ais-vd-1.8.2_debian-11-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 9bbd8196daa73951f8e56746c5deb11b038eb18abdde5913000259939b26b4db </tarball-checksum>
+  <tarball-checksum> 642a732a071388b4befb59fd9e9aa02d182562172ba3d65bc458fffde7def06a </tarball-checksum>
 </plugin>
