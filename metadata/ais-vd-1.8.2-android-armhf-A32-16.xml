@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Hakansv/ais-vd_pi/748 -->
+<!-- https://circleci.com/gh/Hakansv/ais-vd_pi/764 -->
 <plugin version="1">
   <name> ais-vd </name>
   <version> 1.8.2 </version>
@@ -23,5 +23,5 @@ using NMEA0183 ECVSD sentence.
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/ais-vd-prod/raw/names/ais-vd-1.8.2-android-armhf-A32-16-tarball/versions/1.8.2/ais-vd-1.8.2_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 6dd838552b0683fd8d66bf680d0121733003b23a4332ece6fdb4c51ef681b8ca </tarball-checksum>
+  <tarball-checksum> a5a5fac25874c4f06e52466214b9d64c83516139f303caf8d3f9c3a2dacb02b7 </tarball-checksum>
 </plugin>
