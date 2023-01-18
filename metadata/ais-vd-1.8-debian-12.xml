@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> ais-vd </name>
-  <version> 1.8.2+741. </version>
+  <version> 1.8.2+766. </version>
   <release>  </release>
   <summary> Update AIS class A voyage data </summary>
 
@@ -22,6 +22,6 @@ using NMEA0183 ECVSD sentence.
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/ais-vd-alpha/raw/names/ais-vd-1.8-debian-12-tarball/versions/1.8.2+741./ais-vd-1.8.2+741._debian-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 847ce22640a28c919ab02b73e65ee9680561cf69cd705abc37b406747a6cfeef </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/ais-vd-alpha/raw/names/ais-vd-1.8-debian-12-tarball/versions/1.8.2+766./ais-vd-1.8.2+766._debian-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 7ebc98c34b2e1f024b92fe377d9dacddfc174dc113104f25904402c9284cbf9f </tarball-checksum>
 </plugin>
